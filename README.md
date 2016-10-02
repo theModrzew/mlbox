@@ -1,4 +1,4 @@
 # mlbox
 Yet another image/html viewer
 
-This version is considered OLD
+This version (2.4) is considered OLD
